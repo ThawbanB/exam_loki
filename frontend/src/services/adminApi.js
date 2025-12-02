@@ -1,7 +1,7 @@
 // src/services/adminApi.js
 import axios from "axios";
 
-const API_BASE_URL = "https://exam-loki-1.onrender.com/api";
+const API_BASE_URL = "https://back-loki.onrender.com/";
 
 export const getOrders = () => {
   try {
